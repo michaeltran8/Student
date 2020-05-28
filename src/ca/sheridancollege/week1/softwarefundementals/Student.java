@@ -3,7 +3,7 @@ package ca.sheridancollege.week1.softwarefundementals;
 
 /**
  *
- * @author Michael Tran
+ * @author Michael Tran --test
  */
 public class Student {
     
