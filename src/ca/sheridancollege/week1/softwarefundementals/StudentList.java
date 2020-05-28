@@ -7,7 +7,7 @@ package ca.sheridancollege.week1.softwarefundementals;
 
 /**
  *
- * @author gardo
+ * @author Michael -- May 28 2020
  */
 public class StudentList {
     
